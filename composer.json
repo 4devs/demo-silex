@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "silex/silex": "~1.0",
+        "ruflin/Elastica": "dev-master",
+        "twig/twig": ">=1.8,<2.0-dev",
+        "symfony/config": "dev-master",
+        "symfony/filesystem": "dev-master",
+        "symfony/yaml": "dev-master"
+    }
+}

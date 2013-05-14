@@ -1,0 +1,6 @@
+twig:
+    path: "/Resources/views"
+    templates: "/Resources/views"
+    options: "/Resources/views"
+    form:
+        templates: "/Resources/views"
